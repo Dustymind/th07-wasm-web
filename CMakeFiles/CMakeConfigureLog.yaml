@@ -7093,3 +7093,143 @@ events:
         - "/"
       CMAKE_FIND_ROOT_PATH: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cache/sysroot"
 ...
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Emscripten.cmake:6 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake:32 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "file"
+    variable: "_EMSCRIPTEN_PLATFORM_MODULE"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "Platform/Emscripten.cmake"
+    candidate_directories:
+      - "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cmake/Modules/"
+    found: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\fnm_multishells\\39108_1786289871600"
+        - "C:\\Users\\Yakumo_Koishi\\repos\\emsdk"
+        - "C:\\Users\\Yakumo_Koishi\\repos\\emsdk\\upstream\\emscripten"
+        - "C:\\Program Files\\Python314\\Scripts\\"
+        - "C:\\Program Files\\Python314\\"
+        - "C:\\Program Files\\Zulu\\zulu-25\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
+        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\VSCodium\\bin"
+        - "C:\\Windows\\AtlasModules"
+        - "C:\\Windows\\AtlasModules\\Tools"
+        - "C:\\Windows\\AtlasModules\\Scripts"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\mingw64\\bin"
+        - "C:\\Program Files\\PowerToys\\DSCModules\\"
+        - "C:\\Program Files\\Tailscale\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\gradle-9.6.1\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\gsudo\\Current"
+        - "C:\\Users\\Yakumo_Koishi\\.local\\bin"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Links"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Roaming\\Python\\Python314\\Scripts"
+        - "C:\\Users\\Yakumo_Koishi\\.deno\\bin"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Google.PlatformTools_Microsoft.Winget.Source_8wekyb3d8bbwe\\platform-tools"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Packages\\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\llvm-mingw-20260616-ucrt-x86_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cache/sysroot"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/"
+      CMAKE_FIND_ROOT_PATH: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cache/sysroot"
+...
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Emscripten.cmake:6 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake:32 (include)"
+      - "CMakeLists.txt:3 (project)"
+    mode: "file"
+    variable: "_EMSCRIPTEN_PLATFORM_MODULE"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "Platform/Emscripten.cmake"
+    candidate_directories:
+      - "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cmake/Modules/"
+    found: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\fnm_multishells\\39108_1786289871600"
+        - "C:\\Users\\Yakumo_Koishi\\repos\\emsdk"
+        - "C:\\Users\\Yakumo_Koishi\\repos\\emsdk\\upstream\\emscripten"
+        - "C:\\Program Files\\Python314\\Scripts\\"
+        - "C:\\Program Files\\Python314\\"
+        - "C:\\Program Files\\Zulu\\zulu-25\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0"
+        - "C:\\Windows\\System32\\OpenSSH"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\VSCodium\\bin"
+        - "C:\\Windows\\AtlasModules"
+        - "C:\\Windows\\AtlasModules\\Tools"
+        - "C:\\Windows\\AtlasModules\\Scripts"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\mingw64\\bin"
+        - "C:\\Program Files\\PowerToys\\DSCModules\\"
+        - "C:\\Program Files\\Tailscale\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\gradle-9.6.1\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\gsudo\\Current"
+        - "C:\\Users\\Yakumo_Koishi\\.local\\bin"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Links"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Roaming\\Python\\Python314\\Scripts"
+        - "C:\\Users\\Yakumo_Koishi\\.deno\\bin"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Google.PlatformTools_Microsoft.Winget.Source_8wekyb3d8bbwe\\platform-tools"
+        - "C:\\Users\\Yakumo_Koishi\\AppData\\Local\\Microsoft\\WinGet\\Packages\\MartinStorsjo.LLVM-MinGW.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\llvm-mingw-20260616-ucrt-x86_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cache/sysroot"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/"
+      CMAKE_FIND_ROOT_PATH: "C:/Users/Yakumo_Koishi/repos/emsdk/upstream/emscripten/cache/sysroot"
+...
