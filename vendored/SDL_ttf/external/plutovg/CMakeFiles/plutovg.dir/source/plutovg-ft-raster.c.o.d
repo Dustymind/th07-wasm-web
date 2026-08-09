@@ -1,0 +1,23 @@
+vendored/SDL_ttf/external/plutovg/CMakeFiles/plutovg.dir/source/plutovg-ft-raster.c.o: \
+  C:\Users\Yakumo_Koishi\repos\th07-reallyportable\vendored\SDL_ttf\external\plutovg\source\plutovg-ft-raster.c \
+  C:\Users\Yakumo_Koishi\repos\th07-reallyportable\vendored\SDL_ttf\external\plutovg\source\plutovg-ft-raster.h \
+  C:\Users\Yakumo_Koishi\repos\th07-reallyportable\vendored\SDL_ttf\external\plutovg\source\plutovg-ft-types.h \
+  C:\Users\Yakumo_Koishi\repos\th07-reallyportable\vendored\SDL_ttf\external\plutovg\source\plutovg-ft-math.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\setjmp.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\features.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\bits\setjmp.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\stddef.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\stddef.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_header_macro.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_ptrdiff_t.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_size_t.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_wchar_t.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_null.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\__stddef_offsetof.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\compat\stdlib.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\stdlib.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\bits\alltypes.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\alloca.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\lib\clang\24\include\limits.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\limits.h \
+  C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\cache\sysroot\include\bits\limits.h

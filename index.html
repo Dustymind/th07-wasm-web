@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>一个很不华丽的README</title>
+</head>
+<body>
+    <h1>东方职业业梦 WASM Web 版使用须知</h1>
+    <p>东方妖妖梦的改版的反编译版的 WASM 版的 Web 版。</p>
+    <p>使用 <a href="https://github.com/some100/th07">some100/th07</a> 的 <a href="https://github.com/some100/th07/tree/reallyportable">reallyportable 分支</a>制作。</p>
+    <p><a href="https://www.bilibili.com/video/BV11h4y1r7Kq/">东方职业业梦改版</a> by <a href="https://space.bilibili.com/194023582/">Hks2i</a>，音频 by <a href="https://space.bilibili.com/3164537/">鞍山侯国玉电乐团。</a></p>
+    <p>中文显示修复、改版文本移植、数据包拆分、bgm ogg 化 100% 由 deepseek-v4-pro / deepseek-v4-flash-0731 完成。</p>
+    <del><p>因代码纯 AI 生成，不想公布（当然你找我要我也给，但意义不大）。</p></body></del>
+    <p>晚点考虑下把带 commit 记录的 git 仓库塞 releases 吧，但连 commit 也是 A1 做的，可想而知代码有多勾石了。</p>
+    <h2>既然都读到这里了，那么也该放出链接了</h2>
+    <p><a href="th07.html">进入游戏</a></p>
+    <h2>已知问题：</h2>
+    <p>你得手动点击一下鼠标才能播放所有声音，现代浏览器特性。</p>
+    <p>（移动端试一下触摸屏？没测试过）</p>
+    <h2>如何导出对应数据（请使用浏览器控制台执行）：</h2>
+    <p>导出 replay：Module.exportReplays()</p>
+    <p>（我问 D 指导如何导出 replay，结果它给我写了这函数）</p>
+    <p>导出 score.dat：FS.readFile("/savesth07/score.dat")</p>
+    <p>导出 th07.cfg（可行但有什么大病）：FS.readFile("/savesth07/th07.cfg")</p>
+</body>
+</html>
+

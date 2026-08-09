@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL_image/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL_ttf/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL_ttf/external/freetype/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL_ttf/external/plutovg/cmake_install.cmake",
+		"C:/Users/Yakumo_Koishi/repos/th07-reallyportable/build-web/vendored/SDL_ttf/external/plutosvg/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

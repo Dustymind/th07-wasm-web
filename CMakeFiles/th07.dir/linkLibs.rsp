@@ -1,0 +1,1 @@
+ vendored/SDL/libSDL3.a vendored/SDL_image/libSDL3_image.a vendored/SDL_ttf/libSDL3_ttf.a -lm 
