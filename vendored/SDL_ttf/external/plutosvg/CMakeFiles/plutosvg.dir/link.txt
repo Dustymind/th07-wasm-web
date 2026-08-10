@@ -1,2 +1,0 @@
-C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\emar.exe qc libplutosvg.a CMakeFiles/plutosvg.dir/source/plutosvg.c.o
-C:\Users\Yakumo_Koishi\repos\emsdk\upstream\emscripten\emranlib.exe libplutosvg.a
