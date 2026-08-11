@@ -5,16 +5,18 @@
 <title>一个很不华丽的README</title>
 </head>
 <body>
-    <h1>东方职业业梦 WASM Web 版使用须知</h1>
-    <p>东方妖妖梦的改版的反编译版的 WASM 版的 Web 版。</p>
+    <h1>东方妖妖梦（日文版） / 东方职业业梦 WASM Web 版使用须知</h1>
+    <h2><b>Note: 进入链接见中间</b></h2>
+    <p>东方妖妖梦（及其改版东方职业业梦）的反编译版的 WASM 版的 Web 版。</p>
     <p>使用 <a href="https://github.com/some100/th07">some100/th07</a> 的 <a href="https://github.com/some100/th07/tree/reallyportable">reallyportable 分支</a>制作。</p>
     <p><a href="https://www.bilibili.com/video/BV11h4y1r7Kq/">东方职业业梦改版</a> by <a href="https://space.bilibili.com/194023582/">Hks2i</a>，音频 by <a href="https://space.bilibili.com/3164537/">鞍山侯国玉电乐团。</a></p>
-    <p>中文显示修复、改版文本移植、数据包拆分、bgm ogg 化 100% 由 deepseek-v4-pro / deepseek-v4-flash-0731 完成。</p>
+    <p>中文显示修复、改版文本移植、数据包拆分、bgm ogg 化、midi 模式支持 100% 由 deepseek-v4-pro / deepseek-v4-flash-0731 完成。</p>
     <del><p>因代码纯 AI 生成，不想公布（当然你找我要我也给，但意义不大）。</p></body></del>
     <p>把带 commit 记录的 git 仓库塞 releases 了，但连 commit 也是 A1 做的，可想而知代码有多勾石了。</p>
     <p><a href="https://github.com/Dustymind/th07-wasm-web/releases/tag/source-code">源码文件</a></p>
     <h2>既然都读到这里了，那么也该放出链接了</h2>
-    <p><a href="th07.html">进入游戏</a></p>
+    <p><a href="th07-original/th07.html">东方妖妖梦（日文版）</a></p>
+    <p><a href="th07.html">东方职业业梦</a></p>
     <h2>已知问题：</h2>
     <p>replay 界面的字块闪烁，不会修🏳</p>
     <h2>如何导出对应数据（请使用浏览器控制台执行）：</h2>
@@ -27,6 +29,10 @@
     <p>把源码塞 releases 了</p>
     <p>重新把 ogg 版 bgm 塞成一个文件</p>
     <p>移除不必要的文件</p>
+    <p>2026.8.11:</p>
+    <p>添加了东方妖妖梦（日文版）</p>
+    <p>添加了 midi 模式支持（使用 <a href="https://github.com/jet2jet/fluidsynth-emscripten.git">jet2jet/fluidsynth-emscripten</a>）</p>
+    <p>添加对话框，允许只加载 midi 版音乐节省流量</p>
 </body>
 </html>
 
